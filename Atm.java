@@ -1,6 +1,5 @@
 package brainwave;
 
-import java.nio.channels.Pipe.SourceChannel;
 import java.util.ArrayList;
 import java.util.Scanner;
 
