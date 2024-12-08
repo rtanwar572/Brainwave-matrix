@@ -14,7 +14,6 @@ public class Atm {
     Atm(ArrayList<BankAccount> userList) {
         this.users = userList;
         input = new Scanner(System.in);
-        // UserList=new ArrayList<>();
     }
 
     private static void showMenu() {
